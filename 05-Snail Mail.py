@@ -1,0 +1,5 @@
+print("26/07/2024")
+print("I'm a bit tired, but hanging on")
+print("I wanna grasp the basics of programing asap, so i can sray close to home")
+print("You did it, you own me a beer")
+print("xd")
